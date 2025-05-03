@@ -11,9 +11,9 @@ Cyber Security • Coding • Developing • Building PCs & Servers • Hardware
 
 ## 🛠 Currently Working On
 
-- 🧠 Building a personal AI assistant inspired by *Jarvis or Edith*, powered by a uncensored model valued over **$30 Million Dollars**.
-- 🛠 Coding several **custom tools** for automation, security, daily use and for myself.
-- 🌐 Developing my **portfolio website** and a couple of other **Websites**.
+- 🧠 Building a personal AI assistant inspired by *Jarvis or Edith*, powered by a uncensored model valued over **30 Million Dollars**.
+- 🛠 Coding several **Custom Tools** for automation, security, daily use and for myself.
+- 🌐 Developing my **Portfolio Website** and a couple of other **Websites**.
 
 ---
 
