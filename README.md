@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm T-G0W  
-<sub><i>↳ 0 stands for 0day Attacks</i></sub>
+<sub><i> T-G0W ↬ 0 stands for 0day Attacks</i></sub>
 
 ---
 
