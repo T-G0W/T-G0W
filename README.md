@@ -5,7 +5,7 @@
 
 ## 🧠 About Me
 
-Cyber Security • Coding • Developing • Building PCs • Hardware Enthusiast
+Cyber Security • Coding • Developing • Building PCs & Servers • Hardware Enthusiast
 
 ---
 
@@ -15,7 +15,7 @@ Cyber Security • Coding • Developing • Building PCs • Hardware Enthusias
 `Python` • `HTML` • `CSS` • `JavaScript` • `C++` • `PHP` • `DuckyScript`
 
 ### Tools  
-`VS Code` • `Visual Studio 2022` • `PyCharm` • `GitHub` • `Unreal Engine` • `Unity`  
+`VS Code` • `Visual Studio 2022` • `PyCharm` • `GitHub` • `Unreal Engine (a bit)` • `Unity`  
 `Docker (a bit)` • `Linux` • `Windows` • `Custom Coded Software`
 
 ---
