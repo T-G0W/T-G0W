@@ -37,4 +37,4 @@ Cyber Security • Coding • Developing • Building PCs & Servers • Hardware
 
 ---
 
-> _“The quieter you become, the more you are able to hear.”_
+> _“Social engineering is the art of hacking people, not machines.”_
