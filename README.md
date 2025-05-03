@@ -20,7 +20,7 @@ Cyber Security • Coding • Developing • Building PCs • Hardware Enthusias
 
 ### Tools  
 
-`VS Code` • `Visual Studio 2022` • `PyCharm` • `GitHub` • `Unreal Engine` • `Unity`  
+`VS Code` • `Visual Studio 2022` • `PyCharm` • `GitHub` • `Unreal Engine (a bit)` • `Unity`  
 `Docker (a bit)` • `Linux` • `Windows` • `Custom Coded Software`
 
 ---
