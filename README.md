@@ -33,7 +33,7 @@ Cyber Security • Coding • Developing • Building PCs & Servers • Hardware
 
 ### 💖 Operating-Systems
 
-`Windows (10,11)` `Linux-Mint` • `Kali` • `Parrot-Os` • `Tails` • `Ubuntu`
+`Windows (10,11)` `Linux-Mint` • `Kali` • `Parrot-Os` • `Tails` • `Ubuntu` • `Debian` • `Raspberry-Pi-Os` • `Android` • `Ios` • `Arch (a bit)`
 
 ---
 
@@ -42,6 +42,7 @@ Cyber Security • Coding • Developing • Building PCs & Servers • Hardware
 - **E-Mail**: Coming Soon
 - **Portfolio**: Coming Soon
 - **Discord**: `t_gow`
+> _“MSG Me for help or Work”_
 
 ---
 
