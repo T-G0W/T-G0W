@@ -1,21 +1,26 @@
 # 👋 Hi there, I'm T-G0W  
-                          ↳ 0 stands for 0day Attacks
+<sub><i>↳ 0 stands for 0day Attacks</i></sub>
 
 ---
 
 ## 🧠 About Me
 
-Cyber Security • Coding • Developing • Building PCs & Servers • Hardware Enthusiast
+Cyber Security • Coding • Developing • Building PCs • Hardware Enthusiast
 
 ---
 
 ## 💻 Tech Stack
 
 ### My Skills  
-`Python` • `HTML` • `CSS` • `JavaScript` • `C++` • `PHP` • `DuckyScript`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,php" />
+  <img src="https://custom-icon-badges.demolab.com/badge/DuckyScript-blue?style=flat&logo=terminal" />
+</p>
 
 ### Tools  
-`VS Code` • `Visual Studio 2022` • `PyCharm` • `GitHub` • `Unreal Engine (a bit)` • `Unity`  
+
+`VS Code` • `Visual Studio 2022` • `PyCharm` • `GitHub` • `Unreal Engine` • `Unity`  
 `Docker (a bit)` • `Linux` • `Windows` • `Custom Coded Software`
 
 ---
