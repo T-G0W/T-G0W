@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm T-G0W  
+# 👋 Hi there, I'm T-G0W </>
 <sub><i> T-G0W ↬ 0 stands for 0day Attacks</i></sub>
 
 ---
@@ -20,15 +20,19 @@ Cyber Security • Coding • Developing • Building PCs & Servers • Hardware
 
 ### Tools  
 
-`VS Code` • `Visual Studio 2022` • `PyCharm` • `GitHub` • `Unreal Engine (a bit)` • `Unity`  
-`Docker (a bit)` • `Linux` • `Windows` • `Custom Coded Software`
+`Self Coded Software` • `VS Code` • `Visual Studio 2022` • `PyCharm` • `GitHub` • `Unreal Engine (a bit)` • `Unity`  
+`Docker (a bit)` • `Linux, Windows (-> Operating-Systems)`
+
+### 💖 Operating-Systems
+
+`Windows (10,11)` `Linux-Mint` • `Kali` • `Parrot-Os` • `Tails` • `Ubuntu`
 
 ---
 
 ## 📫 Contact
 
-- **E-Mail**: Coming Soon  
-- **Portfolio**: Coming Soon  
+- **E-Mail**: Coming Soon
+- **Portfolio**: Coming Soon
 - **Discord**: `t_gow`
 
 ---
