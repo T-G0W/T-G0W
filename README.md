@@ -5,7 +5,7 @@
 
 ## 🧠 About Me
 
-Cyber Security • Coding • Developing • Building PCs • Hardware Enthusiast
+Cyber Security • Coding • Developing • Building PCs & Servers • Hardware Enthusiast
 
 ---
 
