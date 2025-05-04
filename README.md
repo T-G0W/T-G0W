@@ -3,15 +3,9 @@
 
 ---
 
-## 🧠 About Me
+## <details><summary>🧠 About Me</summary>Try to be The 2. Tony</details>
 
 Cyber Security • Coding • Developing • Building PCs & Servers • Hardware Enthusiast
-
-<details>
-  <summary>Hover mich, um mehr zu sehen!</summary>
-  Hier ist der Text, der erscheint, wenn du darauf klickst.
-</details>
-
 
 ---
 
