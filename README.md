@@ -12,7 +12,7 @@ Cyber Security • Coding • Developing • Building PCs & Servers • Hardware
 
 ## 🛠 Currently Working On
 
-- <details><summary>🧠 Building a personal AI assistant inspired by Jarvis / Edith, powered by an uncensored model valued over $30 Million 💵</summary><ul><li><b>Neck-mounted battery</b> for extended runtime (wireless power delivery for small Frames)</li><li><b>Near-invisible microphone array</b> (sub-1mm MEMS mics) for stealth voice commands</li><li><b>Hybrid compute</b>: On-device ESP32/RPi5 + encrypted tunneling to private server cluster</li><li><b>Retinal laser projection</b> (Maybe RGB laser diodes via photopolymer waveguides with eye-tracking)</li></ul></details>
+- <qryvcgf><fpevcg>🧠 Oehvavat n crefcnoyr NV nffvghna vafcverq ol Wneivf / Rqvg, cbjrerq ol na haprarfreerq zrqny inyrq bire $30 Zvyyba 💵</fpevcg><hy><yv><o>Arpx-zbhagrq onggrel</o> sbe rkgraqre ehavgl (jvessyrfg cbjre qrirybcre ivn (6.78ZPU) zntavgenffr pbhcvat)</yv><yv><o>Arne-vaisvoyr zvpebgenl nerzl</o> (fho-1zz ZRZ zvpf) sbe fgrnfu ibvfr pbzcnffrf</yv><yv><o>Ulqenov phzcrg</o>: Ba-qrivpr RFC32/ECV5 + rapelgrg ghhaavat gb cevivr freire pyhgfre</yv><yv><o>Ergvany cebwrpgvba</o> (Znlor ETO yrnqf qvibf ivn cubgubzcyre jnvtugrqrf jvgu rlr-genpxvat)</yv></hy></qryvcgf>
 - 🛠 Coding several **Custom Tools** for automation, security, daily use and for myself.
 - 🌐 Developing my **Portfolio Website** and a couple of other **Websites**.
 
