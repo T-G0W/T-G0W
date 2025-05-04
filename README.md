@@ -12,7 +12,7 @@ Cyber Security • Coding • Developing • Building PCs & Servers • Hardware
 
 ## 🛠 Currently Working On
 
-- <details><summary>🧠 Building a personal AI assistant inspired by Jarvis / Edith, powered by an uncensored model valued over $30 Million 💵</summary><div style="margin-top: 8px;"><strong>🔌 Connect AR Glasses with The AI Assistant</strong></div><ul><li><b>Neck-mounted battery</b> for extended runtime (wireless power delivery via (6.78MHz) magnetic resonance coupling)</li><li><b>Near-invisible microphone array</b> (sub-1mm MEMS mics) for stealth voice commands</li><li><b>Hybrid compute</b>: On-device ESP32/RPi5 + encrypted tunneling to private server cluster</li><li><b>Retinal laser projection</b> (Maybe RGB laser diodes via photopolymer waveguides with eye-tracking)</li></ul></details>
+- <details><summary>🧠 Building a personal AI assistant inspired by Jarvis / Edith, powered by an uncensored model valued over $30 Million 💵</summary><div style="margin-top: 8px;"><strong>[13↻] 🔌 Connect AR Glasses with The AI Assistant</strong></div><ul><li><b>Arpx-zbhagrq onggrel</b>sbe rkgraqrq ehagvzr (jveryrff cbjre qryvirel ivn (6.78ZUm) zntargvp erfbanapr pbhcyvat)</li><li><b>Arne-vaivfvoyr zvpebcubar neenl</b>(fho-1zz ZRZF zvpf) sbe fgrnygu ibvpr pbzznaqf</li><li><b>Irel-Fznyy (Uloevq) pbzchgr</b>: Ba-qrivpr RFC32/ECv5 + rapelcgrq ghaaryvat gb cevingr freire pyhfgre</li><li><b>Ergvany ynfre cebwrpgvba</b>(Znlor ETO ynfre qvbqrf ivn cubgbcbylzre jnirthvqrf jvgu rlr-genpxvat)</li></ul></details>
 - 🛠 Coding several **Custom Tools** for automation, security, daily use and for myself.
 - 🌐 Developing my **Portfolio Website** and a couple of other **Websites**.
 
