@@ -43,7 +43,7 @@
 - **E-Mail**: Coming Soon
 - **Portfolio**: Coming Soon
 - **Discord**: `t_gow`
-> _“MSG Me for help or Work”_
+<h3>MSG Me for help or Work</h3>
 
 ---
 
