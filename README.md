@@ -6,7 +6,7 @@
 ## <details><summary>🧠 / 🔑 About Me</summary>(B64) Tm90IGhhcmQgdG8gRGVjb2RlIHJpZ2h0PzogVHJ5aW5nIHRvIGJlIFRoZSAyLiBUb255</details>
 
 - Age: 16 Years Old
-- Cyber Security • Coding • Developing • Building PCs & Servers • Hardware Enthusiast
+- Maker • Cyber Security • Coding • Developing • Building PCs & Servers • Hardware Enthusiast
 
 ---
 
