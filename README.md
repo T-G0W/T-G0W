@@ -7,6 +7,10 @@
 
 Cyber Security • Coding • Developing • Building PCs & Servers • Hardware Enthusiast
 
+<details>
+  <summary>Hover mich, um den Text zu sehen!</summary>
+</details>
+
 ---
 
 ## 🛠 Currently Working On
