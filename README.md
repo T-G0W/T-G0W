@@ -7,9 +7,11 @@
 
 Cyber Security • Coding • Developing • Building PCs & Servers • Hardware Enthusiast
 
-<pre><code>
-  <span style="visibility: hidden;" onmouseover="this.style.visibility='visible'">Ich erscheine, wenn du mich mit der Maus berührst!</span>
-</code></pre>
+<details>
+  <summary>Hover mich, um mehr zu sehen!</summary>
+  Hier ist der Text, der erscheint, wenn du darauf klickst.
+</details>
+
 
 ---
 
