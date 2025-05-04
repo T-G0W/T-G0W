@@ -3,7 +3,7 @@
 
 ---
 
-## <details><summary>🧠 About Me</summary>VHJ5IHRvIGJlIFRoZSAyLiBUb255</details>
+## <details><summary>🧠 / 🔑 About Me</summary>VHJ5IHRvIGJlIFRoZSAyLiBUb255</details>
 
 Cyber Security • Coding • Developing • Building PCs & Servers • Hardware Enthusiast
 
