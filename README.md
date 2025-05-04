@@ -7,9 +7,9 @@
 
 Cyber Security • Coding • Developing • Building PCs & Servers • Hardware Enthusiast
 
-<details>
-  <summary>Hover mich, um den Text zu sehen!</summary>
-</details>
+<pre><code>
+  <span style="visibility: hidden;" onmouseover="this.style.visibility='visible'">Ich erscheine, wenn du mich mit der Maus berührst!</span>
+</code></pre>
 
 ---
 
