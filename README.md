@@ -3,7 +3,7 @@
 
 ---
 
-## <details><summary style="visibility: hidden;">🧠 About Me</summary>Try to be The 2. Tony</details>
+## <details><summary>🧠 About Me</summary>VHJ5IHRvIGJlIFRoZSAyLiBUb255</details>
 
 Cyber Security • Coding • Developing • Building PCs & Servers • Hardware Enthusiast
 
