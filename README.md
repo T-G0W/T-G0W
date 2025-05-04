@@ -11,7 +11,7 @@ Cyber Security • Coding • Developing • Building PCs & Servers • Hardware
 
 ## 🛠 Currently Working On
 
-- <details><summary>🧠 Building a personal AI assistant inspired by Jarvis / Edith, powered by an uncensored model valued over $30 Million 💵</summary><ul><li><b>Neck-mounted battery</b> for extended runtime (wired power delivery to avoid bulky frames)</li><li><b>Near-invisible microphone array</b> (sub-1mm MEMS mics) for stealth voice commands</li><li><b>Hybrid compute</b>: On-device ESP32/RPi + encrypted tunneling to private server</li><li><b>Laser projection</b> (RGB lasers via holographic waveguides)</li></ul><i>"The future is already here — just waiting to be assembled."</i></details>
+- <details><summary>🧠 Building a personal AI assistant inspired by Jarvis / Edith, powered by an uncensored model valued over $30 Million 💵<br>Deploy my Personal AI Assistant into AR Glasses</summary><ul><li><b>Neck-mounted battery</b> for extended runtime (wired power delivery to avoid bulky frames)</li><li><b>Near-invisible microphone array</b> (sub-1mm MEMS mics) for stealth voice commands</li><li><b>Hybrid compute</b>: On-device ESP32/RPi + encrypted tunneling to private server</li><li><b>Laser projection</b> (RGB lasers via holographic waveguides)</li></ul><i>"The future is already here — just waiting to be assembled."</i></details>
 - 🛠 Coding several **Custom Tools** for automation, security, daily use and for myself.
 - 🌐 Developing my **Portfolio Website** and a couple of other **Websites**.
 
