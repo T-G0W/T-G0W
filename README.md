@@ -12,7 +12,7 @@ Cyber Security • Coding • Developing • Building PCs & Servers • Hardware
 
 ## 🛠 Currently Working On
 
-- <details><summary>🧠 Building a personal AI assistant inspired by Jarvis / Edith, powered by an uncensored model valued over $30 Million 💵</summary><ul><li><b>[13↻] Arpx-zbhagrq onggrel</b> sbe rkgraqre ehavgl (jvessyrfg cbjre qrirybcre ivn (6.78ZPU) zntavgenffr pbhcvat)</li><li><b>Arne-vaisvoyr zvpebgenl nerzl</b> (fho-1zz ZRZ zvpf) sbe fgrnfu ibvfr pbzcnffrf</li><li><b>Ulqenov phzcrg</b>: Ba-qrivpr RFC32/ECV5 + rapelgrg ghhaavat gb cevivr freire pyhgfre</li><li><b>Ergvany cebwrpgvba</b> (Znlor ETO yrnqf qvibf ivn cubgubzcyre jnvtugrqrf jvgu rlr-genpxvat)</li></ul></details>
+- <details><summary>🧠 Building a personal AI assistant inspired by Jarvis / Edith, powered by an uncensored model valued over $30 Million 💵</summary><ul><li><b>Arpx-zbhagrq onggrel</b> sbe rkgraqre ehavgl (jvessyrfg cbjre qrirybcre ivn (6.78ZPU) zntavgenffr pbhcvat)</li><li><b>Arne-vaisvoyr zvpebgenl nerzl</b> (fho-1zz ZRZ zvpf) sbe fgrnfu ibvfr pbzcnffrf</li><li><b>Ulqenov phzcrg</b>: Ba-qrivpr RFC32/ECV5 + rapelgrg ghhaavat gb cevivr freire pyhgfre</li><li><b>Ergvany yrnfre cebwrpgvba</b> (Znlor ETO yrnqf qvibf ivn cubgubzcyre jnvtugrqrf jvgu rlr-genpxvat)</li></ul></details>
 - 🛠 Coding several **Custom Tools** for automation, security, daily use and for myself.
 - 🌐 Developing my **Portfolio Website** and a couple of other **Websites**.
 
