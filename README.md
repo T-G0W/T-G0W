@@ -15,6 +15,8 @@ Cyber Security • Coding • Developing • Building PCs & Servers • Hardware
 - 🛠 Coding several **Custom Tools** for automation, security, daily use and for myself.
 - 🌐 Developing my **Portfolio Website** and a couple of other **Websites**.
 
+## <details><summary style="display: flex"><div style="width: 0; height: 0; overflow: hidden"> </div><div>🧠 Building a...</div></summary>
+
 ---
 
 ## 💻 Tech Stack
