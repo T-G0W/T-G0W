@@ -5,8 +5,8 @@
 
 ## <details><summary>🧠 / 🔑 About Me</summary>VHJ5IHRvIGJlIFRoZSAyLiBUb255</details>
 
-Age: 16 Years Old
-Cyber Security • Coding • Developing • Building PCs & Servers • Hardware Enthusiast
+- Age: 16 Years Old
+- Cyber Security • Coding • Developing • Building PCs & Servers • Hardware Enthusiast
 
 ---
 
