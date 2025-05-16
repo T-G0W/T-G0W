@@ -40,10 +40,10 @@
 
 ## 📫 Contact
 
-- **E-Mail**: Coming Soon
+- **E-Mail**: t-g0w@gmx.de
 - **Portfolio**: Coming Soon
 - **Discord**: `t_gow`
-<h3>MSG Me for help or Work</h3>
+<h3>MSG Me for Help or Work</h3>
 
 ---
 
