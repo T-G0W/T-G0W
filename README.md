@@ -40,7 +40,7 @@
 
 ## 📫 Contact
 
-- **E-Mail**: t-gow@gmx.de
+- **E-Mail**: t-g0w@gmx.de
 - **Portfolio**: Coming Soon
 - **Discord**: `t_gow`
 <h3>MSG Me for Help or Work</h3>
