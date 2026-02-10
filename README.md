@@ -25,6 +25,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,php" />
   <img src="https://custom-icon-badges.demolab.com/badge/DuckyScript-blue?style=flat&logo=terminal" />
+  and more.
 </p>
 
 ### Tools  
