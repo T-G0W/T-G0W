@@ -3,7 +3,7 @@
 
 ---
 
-## <details><summary>🧠 / 🔑 About Me</summary>(B64) Tm90IGhhcmQgdG8gRGVjb2RlIHJpZ2h0PzogVHJ5aW5nIHRvIGJlIFRoZSAyLiBUb255</details>
+## <details><summary>🧠 / 🔑 About Me</summary>
 
 - Age: 16 Years Old
 - Maker • Cyber Security • Coding • Developing • Building PCs & Servers • Hardware Enthusiast
