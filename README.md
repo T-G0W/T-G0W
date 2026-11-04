@@ -30,4 +30,4 @@
 
 ### Contact
 
-`t-g0w@gmx.de` · Discord `t_gow` · Portfolio (Website) soon
+`contact@t-gow.com` · Discord `t_gow` · Portfolio (Website) soon
