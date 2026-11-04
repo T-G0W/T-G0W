@@ -12,11 +12,10 @@
 
 - **Own operating system** — kernel, boot, memory management, drivers
 - **FBX-1** — full-flow staged combustion rocket engine design (LOX/LCH₄, 400 bar, ~310 tf sea-level thrust)
-- **Gowan** — native code editor for Windows, Rust + GPU rendering (wgpu / DX12), cold start < 150 ms
-- **VELOX** — gaming browser for Windows, hardware-adaptive, zero telemetry
-- **Nexus** — open-source game platform: launcher, backend, OAuth2 login, matchmaking, economy
+- **Other Project** — native code editor for Windows, Rust + GPU rendering (wgpu / DX12), cold start < 150 ms
+- **Other Project** — gaming browser for Windows, hardware-adaptive, zero telemetry
+- **Other Project** — open-source game platform: launcher, backend, OAuth2 login, matchmaking, economy
 - **GRAVEWAKE** — first-person zombie survival shooter, Unity 6 / URP, 1–4 players
-- **Blender asset pipeline** — procedural modelling in Python (bpy), LOD0–LOD2, baked PBR maps, validated FBX export
 - **Screen recorder** — C/C++, NVENC HEVC, smoothed cursor motion
 
 ### Tech
@@ -31,4 +30,4 @@
 
 ### Contact
 
-`t-g0w@gmx.de` · Discord `t_gow` · Portfolio soon
+`t-g0w@gmx.de` · Discord `t_gow` · Portfolio (Website) soon
