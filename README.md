@@ -30,4 +30,4 @@
 
 ### Contact
 
-`contact@t-gow.com` · Discord `t_gow` · Website `https://tgow.dev`
+`contact@t-gow.com` · Discord `t_gow` · Website `soon.`
